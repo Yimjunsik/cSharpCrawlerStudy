@@ -1,5 +1,5 @@
 # cSharpCrawlerStudy
-C#을 이용한 크롤러(Crawler) 만들기. 
+C#을 이용한 크롤러(Crawler) 만들기. Daum 실시간 검색어(인기 검색어) 크롤링.
 
 사용한 라이브러리 : 
 1. Abot, 
